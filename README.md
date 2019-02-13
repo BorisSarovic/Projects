@@ -1,2 +1,0 @@
-# Projects
-Front-end development
